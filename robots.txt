@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:https://a-wahab0.github.io/PORTFOLIO/
